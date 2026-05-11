@@ -1,0 +1,1 @@
+{"name": "web3-nft-ai-generator-2026", "version": "1.0.0", "description": "Modern Web3 NFT + AI Generator for 2026", "main": "index.js", "scripts": {"start": "node index.js"}}
